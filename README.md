@@ -7,7 +7,7 @@ The project is organized into the following main directories:
 
 - `src`: Contains the source code for the backend services.
 - `tests`: Contains the test cases for the backend services.
-- `clientapp`: Contains the client application. For more information, refer to the [README.md](../clientapp/README.md) file in the `clientapp` directory.
+- `clientapp`: Contains the client application. For more information, refer to the [README.md](./clientapp/README.md) file in the `clientapp` directory.
 
 ## Technology Stack
 
